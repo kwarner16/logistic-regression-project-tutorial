@@ -1,6 +1,9 @@
 {
 	"slug" : "logistic-regression-project-tutorial",
-	"title" : "Logistic Regression Project Tutorial",
+	"title": {
+        "en": "Logistic Regression Project Tutorial",
+        "es": "Tutorial de Proyecto de Regresión Logística"
+    },
 	"preview": "https://github.com/4GeeksAcademy/logistic-regression-project-tutorial/blob/main/preview.png?raw=true",
 	"solution": {
 		"es": "https://github.com/4GeeksAcademy/logistic-regression-project-tutorial/blob/main/solution.es.ipynb",
@@ -12,6 +15,11 @@
 	"difficulty": "intermediate",
 	"syntax": "python",
 	"duration" : 2,
-    "projectType": "project",
-	"description" : "Logistic Regression is the ideal first algorithm to learn how to model. Without doing much cleaning, train your model and optimize until you are satified with your evaluation and results."
+    	"projectType": "project",
+	"description": {
+        "en": "Logistic Regression is the ideal first algorithm to learn how to model. Without doing much cleaning, train your model and optimize until you are satisfied with your evaluation and results.",
+        "es": "La regresión logística es el algoritmo ideal para aprender a modelar. Sin necesidad de limpiar demasiado los datos, entrena tu modelo y optimízalo hasta estar satisfecho con su evaluación y resultados."
+    	},
+	"gitpod": true,
+	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template"
 }
